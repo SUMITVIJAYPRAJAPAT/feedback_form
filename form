@@ -1,0 +1,15 @@
+print("Feedback Form")
+first_name=input("first name: ")
+last_name=input("last name: ")
+email=input("email:")
+contact=input("contact number:")
+enroll_id=input("enrollment no:")
+school==input("school:")
+programme=input("programme:")
+discipline=input("discipline:")
+course=input("course:")
+course_code=input("course code")
+faculty=input("faculty name:")
+sem=input("semester:")
+
+#add feedback questions with input statement
