@@ -19,7 +19,7 @@ enroll_id=input("enrollment no:")
 school==input("school:")
 if(school.isdigit()):
     print("invalid input")
-    last_name=input("last name: ")
+    school_name=input("school name: ")
 #
 programme=input("programme:")
 if(programme.isdigit()):
@@ -44,5 +44,6 @@ if(faculty.isdigit()):
     last_name=input("last name: ")
 #
 sem=input("semester:")
+
 
 #add feedback questions with input statement
